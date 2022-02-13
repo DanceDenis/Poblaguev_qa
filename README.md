@@ -1,6 +1,6 @@
 # Poblaguev_qa
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1Or5xlYObh7aWwvE4OA3IMudMHv1LKX9hanrHqXhhxXI/edit?usp=sharing)
+[РџСЂРёРјРµСЂ С‚РµСЃС‚-РєРµР№СЃРѕРІ](https://docs.google.com/spreadsheets/d/1Or5xlYObh7aWwvE4OA3IMudMHv1LKX9hanrHqXhhxXI/edit?usp=sharing)
 ---
 
 
-[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1fELxZGf5SAp7RppHNok2SojASIQGJdP67lC_OII3ETg/edit?usp=sharing)
+[ГЏГ°ГЁГ¬ГҐГ° Г¬Г®ГҐГЈГ® ГІГҐГ±ГІГ®ГўГ®ГЈГ® Г§Г Г¤Г Г­ГЁГї](https://docs.google.com/spreadsheets/d/1fELxZGf5SAp7RppHNok2SojASIQGJdP67lC_OII3ETg/edit?usp=sharing)
